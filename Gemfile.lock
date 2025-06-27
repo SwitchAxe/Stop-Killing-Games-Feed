@@ -27,6 +27,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  base64 (~> 0.3.0)
   nokogiri
   rack (~> 2.2.4)
   rspec
